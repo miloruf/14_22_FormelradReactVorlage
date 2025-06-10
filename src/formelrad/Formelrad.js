@@ -21,4 +21,4 @@ export default function Formelrad() {
             </form>
         </>
     )
-}
+}// ResetAndClear functionality placeholder
